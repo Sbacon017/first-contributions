@@ -2026,4 +2026,4 @@
 - [Nick](https://github.com/nickn10)
 - [Cristian Rodriguez](https://github.com/crisr10)
 - [Aman Jain] (https://github.com/jainaman1398)
-- [Steph Bacon] (https://github.com/sbacon017)
+- [Steph Bacon](https://github.com/sbacon017)
